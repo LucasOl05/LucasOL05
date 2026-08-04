@@ -25,7 +25,7 @@ Estou estudando a **Área de Dados** (Análise de Dados ). Tenho foco em modelag
 
 #### 🗄️ 2. [Gerenciamento-e-Análise-de-Estoque-Agro](./https://github.com/LucasOl05/Gerenciamento-e-Analise-de-Estoque-Agro)
 > **Resumo:** [Analise de dados e consultas avançadas ].
-- **Destaques:Modelagem de tabelas, consultas complexas (`JOINs`, `GROUP BY`, `Subqueries`),
+- **Destaques** :Modelagem de tabelas, consultas complexas (`JOINs`, `GROUP BY`, `Subqueries`),
 - **Tecnologias:** SQL server.
 
 ---
