@@ -1,7 +1,9 @@
 ## Lucas de Oliveira 
 
 ### 🎯 Objetivos Profissionais
-Estou estudando a **Área de Dados** (Análise de Dados ). Tenho foco em modelagem relacional, consulta avançada de dados com **SQL**, além de conhecimentos em programação,Power Bi e Excel.Tambem em Breve vou estar colocando Projetos para a area de suporte de Ti pois é a área com muitas vagas e tambem tenho vontade de entrar e ja estou estudando.
+Estou estudando a **Área de Dados** (Análise de Dados ). Tenho foco em modelagem relacional, consulta avançada de dados com **SQL**, além de conhecimentos em programação,Power Bi e Excel.
+
+Tambem em Breve vou estar colocando Projetos para a area de suporte de Ti pois é a área com muitas vagas e tambem tenho vontade de entrar e ja estou estudando.
 
 
 
