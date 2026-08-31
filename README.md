@@ -14,22 +14,27 @@ Tambem em Breve vou estar colocando Projetos para a area de suporte de Ti pois �
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ---
 
-### 🚀 Projetos em Destaque (SQL & Dados)
+🚀 **Projetos em Destaque**
 
-#### 📊 1. [Projeto SQL Loja informatica](./https://github.com/LucasOl05/analise-vendas-sql)
-> **Resumo:** [ Análise de dados de vendas / Modelagem de banco de dados e-commerce].
-- **Destaques:** Modelagem de tabelas, consultas complexas (`JOINs`, `GROUP BY`, `Subqueries`), otimização de queries e relatórios de métricas de negócio.
-- **Tecnologias:** SQL Server 
+🖥️ **. [Project-infrastructure-LCSGroup](https://github.com/LucasOl05/Project-infrastructure-LCSGroup)**
+> **Resumo:** Implementação e estruturação de infraestrutura de TI com Active Directory.
+* **Destaques:** Configuração de domínio, criação e organização de Unidades Organizacionais (OUs), gerenciamento de usuários, grupos de acesso e políticas de segurança (GPOs).
+* **Tecnologias:** Active Directory, Windows Server, Infraestrutura de TI.
 
-#### 🗄️ 2. [Gerenciamento-e-Análise-de-Estoque-Agro](./https://github.com/LucasOl05/Gerenciamento-e-Analise-de-Estoque-Agro)
-> **Resumo:** [Analise de dados e consultas avançadas ].
-- **Destaques** :Modelagem de tabelas, consultas complexas (`JOINs`, `GROUP BY`, `Subqueries`),
-- **Tecnologias:** SQL server.
+📁 **. [Projeto SQL Loja Informatica](https://github.com/LucasOl05/Projeto-SQL-Loja-Informatica)** *(substitua pelo link correto se houver)*
+> **Resumo:** Modelagem e gerenciamento de banco de dados para suporte e análise de e-commerce.
+* **Destaques:** Resolução de inconsistências de dados, criação de consultas otimizadas para diagnósticos rápidos de problemas de sistemas, modelagem relacional.
+* **Tecnologias:** Microsoft SQL Server, SQL.
 
----
+📁 **. [Gerenciamento-e-Análise-de-Estoque-Agro](https://github.com/LucasOl05/Gerenciamento-e-An%C3%A1lise-de-Estoque-Agro)**
+> **Resumo:** Controle e consulta avançada de dados para rotinas de estoque.
+* **Destaques:** Criação de queries para validação de integridade de dados e suporte a relatórios do sistema.
+* **Tecnologias:** SQL Server.
 
 
