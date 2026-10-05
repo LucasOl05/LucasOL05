@@ -27,7 +27,7 @@ Tambem em Breve vou estar colocando Projetos para a area de suporte de Ti pois �
 * **Destaques:** Configuração de domínio, criação e organização de Unidades Organizacionais (OUs), gerenciamento de usuários, grupos de acesso e políticas de segurança (GPOs).
 * **Tecnologias:** Active Directory, Windows Server, Infraestrutura de TI.
 
-📁 **. [Projeto SQL Loja Informatica](https://github.com/LucasOl05/Projeto-SQL-Loja-Informatica)** *(substitua pelo link correto se houver)*
+📁 **. [Projeto SQL Loja Informatica](https://github.com/LucasOl05/Projeto-SQL-Loja-Informatica)**
 > **Resumo:** Modelagem e gerenciamento de banco de dados para suporte e análise de e-commerce.
 * **Destaques:** Resolução de inconsistências de dados, criação de consultas otimizadas para diagnósticos rápidos de problemas de sistemas, modelagem relacional.
 * **Tecnologias:** Microsoft SQL Server, SQL.
