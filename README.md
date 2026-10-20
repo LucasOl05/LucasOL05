@@ -27,12 +27,12 @@ Tambem em Breve vou estar colocando Projetos para a area de suporte
 * **Destaques:** Configuração de domínio, criação e organização de Unidades Organizacionais (OUs), gerenciamento de usuários, grupos de acesso e políticas de segurança (GPOs).
 * **Tecnologias:** Active Directory, Windows Server, Infraestrutura de TI.
 
-📁 **. [Projeto SQL Loja Informatica](https://github.com/LucasOl05/Projeto-SQL-Loja-Informatica)**
+📁 **. (Projeto SQL Loja Informatica)(https://github.com/LucasOl05/Projeto-SQL-Loja-Informatica)**
 > **Resumo:** Modelagem e gerenciamento de banco de dados para suporte e análise de e-commerce.
 * **Destaques:** Resolução de inconsistências de dados, criação de consultas otimizadas para diagnósticos rápidos de problemas de sistemas, modelagem relacional.
 * **Tecnologias:** Microsoft SQL Server, SQL.
 
-📁 **. [Gerenciamento-e-Análise-de-Estoque-Agro](https://github.com/LucasOl05/Gerenciamento-e-An%C3%A1lise-de-Estoque-Agro)**
+📁 **. (Gerenciamento-e-Análise-de-Estoque-Agro)(https://github.com/LucasOl05/Gerenciamento-e-Analise-de-Estoque-Agro.git)**
 > **Resumo:** Controle e consulta avançada de dados para rotinas de estoque.
 * **Destaques:** Criação de queries para validação de integridade de dados e suporte a relatórios do sistema.
 * **Tecnologias:** SQL Server.
